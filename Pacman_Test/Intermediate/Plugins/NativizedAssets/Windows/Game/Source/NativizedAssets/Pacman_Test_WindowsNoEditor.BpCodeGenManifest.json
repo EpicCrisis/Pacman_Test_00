@@ -1,0 +1,105 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/Paper2D'",
+		"Package'/Script/Pacman_Test'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/UMG'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'",
+		"Package'/Script/ClothingSystemRuntime'"
+	],
+	"convertedAssets":
+	{
+		"/Game/Blueprints/ENUM_GhostType.ENUM_GhostType":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Blueprints/ENUM_GhostType.ENUM_GhostType",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ENUM_GhostType__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ENUM_GhostType__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/Struct_GhostAnimations.Struct_GhostAnimations":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Blueprints/Struct_GhostAnimations.Struct_GhostAnimations",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Struct_GhostAnimations__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Struct_GhostAnimations__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/BPS_Pacman_TestGameModeBase.BPS_Pacman_TestGameModeBase_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BPS_Pacman_TestGameModeBase.BPS_Pacman_TestGameModeBase_C",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BPS_Pacman_TestGameModeBase__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BPS_Pacman_TestGameModeBase__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/BPS_GhostCharacter.BPS_GhostCharacter_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BPS_GhostCharacter.BPS_GhostCharacter_C",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BPS_GhostCharacter__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BPS_GhostCharacter__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/BPS_GhostDestination.BPS_GhostDestination_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BPS_GhostDestination.BPS_GhostDestination_C",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BPS_GhostDestination__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BPS_GhostDestination__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/BPS_GridBlock.BPS_GridBlock_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BPS_GridBlock.BPS_GridBlock_C",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BPS_GridBlock__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BPS_GridBlock__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/BPS_PacDot.BPS_PacDot_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BPS_PacDot.BPS_PacDot_C",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BPS_PacDot__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BPS_PacDot__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/BPS_PacmanPawn.BPS_PacmanPawn_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BPS_PacmanPawn.BPS_PacmanPawn_C",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BPS_PacmanPawn__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BPS_PacmanPawn__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/BPS_LevelVisual.BPS_LevelVisual_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BPS_LevelVisual.BPS_LevelVisual_C",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BPS_LevelVisual__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BPS_LevelVisual__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/BPS_GhostHouseTrigger.BPS_GhostHouseTrigger_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/BPS_GhostHouseTrigger.BPS_GhostHouseTrigger_C",
+			"generatedHeaderPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BPS_GhostHouseTrigger__pf2132744816.h",
+			"generatedCppPath": "C:/Users/User/Documents/GitHub/Pacman_Test_00/Pacman_Test/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BPS_GhostHouseTrigger__pf2132744816.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
